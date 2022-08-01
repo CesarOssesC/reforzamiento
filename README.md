@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Reforzamiento Módulo 8
 
-Things you may want to cover:
+- Repaso OOP
+- Creación de proyecto nuevo en RAILS
+- Repaso REST
+- Formularios en RAILS
+- CRUD simple desde 0 en RAILS
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
